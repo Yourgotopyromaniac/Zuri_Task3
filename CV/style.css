@@ -1,0 +1,72 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+#wrapper
+{
+    width: 90vw;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 5vw;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+#anodaone
+{
+    padding: 5em;
+    padding-top: 2em;
+}
+
+header
+{
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+header h1
+{
+    text-transform: uppercase;
+}
+
+#title
+{
+    color: white;
+    background: rgb(55 71 79);
+    height: 50px;
+    font-size: larger;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+
+#date
+{
+    font-style: italic;
+}
+
+li#main
+{
+    font-weight: bolder;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+li
+{
+    margin-bottom: 15px;
+}
+
+#anodaone div
+{
+    margin-bottom: 50px;
+}
+
+
